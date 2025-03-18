@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="/image.avif" width="200" >
+<!--   <img src="/image.avif" width="200" > -->
 </div>
 <h1 align="center">Hi 👋, I'm Angelina Shoili Rozario</h1>
 <h3 align="center">A passionate software engineer.</h3>
