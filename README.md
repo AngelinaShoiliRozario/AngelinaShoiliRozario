@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Angelina Shoili Rozario</h1>
 <h3 align="center">A passionate software engineer.</h3>
 
-- 🔭 I’m currently working at **ZTRIOS TECH ANd MARKETING** as a CTO.
+- 🔭 I’m currently working at **ZTRIOS TECHNOLOGIES LTD.** as a CTO.
 
 - 🌱 I’m currently learning **Networking, Cyber Security etc.**
 
